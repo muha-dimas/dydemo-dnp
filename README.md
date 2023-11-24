@@ -32,11 +32,17 @@ npm run android or npm run ios.
 
 Steps (Terbaru)
 --------------
+Pre-REQ
+
 Siapkan environment development sesuai: https://reactnative.dev/docs/environment-setup
+
 pastikan sudah ada npm, openjdk-11
 
 -----------------------
-setelah install selesai 
+setelah install selesai, lakukan hal dibawah ini dengan terminal android studio.
+
 npm install --legacy-peer-deps
+
 npm run instrumentDynatrace
+
 npm run android
