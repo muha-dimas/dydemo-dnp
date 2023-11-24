@@ -29,3 +29,14 @@ Rebuild and run your app using react-native
 ```sh
 npm run android or npm run ios.
 ```
+
+Steps (Terbaru)
+--------------
+Siapkan environment development sesuai: https://reactnative.dev/docs/environment-setup
+pastikan sudah ada npm, openjdk-11
+
+-----------------------
+setelah install selesai 
+npm install --legacy-peer-deps
+npm run instrumentDynatrace
+npm run android
